@@ -1,0 +1,7 @@
+{
+  "name": "PawCare India",
+  "description": "Practo for animals in India - Discover trusted veterinary clinics, 24/7 emergency care, ambulances, and analyze pet medical reports with AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
