@@ -2,6 +2,7 @@
 
 **PawCare India** is a dedicated animal healthcare discovery platform and veterinary document intelligence assistant tailored for pet parents, rescuers, and animal caretakers across India. Conceptually modeled as a "Practo for Pets", PawCare bridges the gap between pet owners and verified veterinary infrastructure while demystifying complex medical reports using AI.
 
+live demo - https://pawcare-india.ai.studio/
 ---
 
 ## 🌟 Key Features
